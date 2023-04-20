@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Dedi Alnas Gridsome Blog Starter',
+  siteName: 'Dedi Alnas Gridsome Blog Starter VUE JS',
   siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
 metadata: {
     author: 'Dedi Alnas',
