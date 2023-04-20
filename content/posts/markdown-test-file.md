@@ -4,7 +4,11 @@ date: 2019-02-06
 published: true
 tags: ['Markdown','Test files']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "Halo, nama saya Dedi Alnas, seorang programmer yang memiliki minat dalam pengembangan aplikasi web dan mobile. Saya juga memiliki minat dalam menulis dan membagikan pengetahuan tentang teknologi dan pemrograman kepada orang lain.
+
+Saya percaya bahwa penulisan kode yang mudah dibaca dan mudah dimengerti sangat penting untuk mengembangkan aplikasi yang efektif dan efisien. Oleh karena itu, saya sering menggunakan format Markdown untuk menulis dokumentasi dan catatan teknis saya.
+
+Markdown memang dirancang agar mudah dibaca dan mudah ditulis sebisa mungkin. Namun, keterbacaan tetap menjadi fokus utama. Dokumen yang diformat menggunakan Markdown harus dapat diterbitkan apa adanya, sebagai teks polos, tanpa terlihat seperti telah ditandai dengan tag atau instruksi format. Saya percaya bahwa Markdown adalah alat yang sangat bermanfaat bagi para pengembang dan penulis teknis untuk membuat dan berbagi dokumentasi dengan mudah dan efisien.."
 ---
 
 Web Ini Contoh Web yang loadingnya super cepat menggunakan vue.js silakan cek pada [atx](http://pagespeed.web.dev/) dan [atx](http://gtmetrix.com/)
