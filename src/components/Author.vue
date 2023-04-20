@@ -8,12 +8,13 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+			Blog Simple & minimalis menggunakan starter for Gridsome dan Markdown for content.
+			Silahkan cek pada https://pagespeed.web.dev/ & https://gtmetrix.com/ score pasti 100
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/#">Follow on Twitter</a>
+			<a href="//github.com/dedi-alnas86/gridsome-profile-blog">GitHub</a>
 		</p>
 
 	</div>
