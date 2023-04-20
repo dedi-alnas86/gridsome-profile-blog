@@ -5,12 +5,12 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Dedi Alnas Gridsome Blog Starter VUE JS',
+  siteName: 'Dedi Alnas Gridsome Blog Starter VUEJS',
   siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
 metadata: {
     author: 'Dedi Alnas',
     twitter: 'Dedialnas',
-    siteName: 'Dedi Alnas Blog Starter',
+    siteName: 'Dedi Alnas Blog Starter VUEJS',
     siteUrl: 'https://dedialnas-gridsome.netlify.com'
   },
   
