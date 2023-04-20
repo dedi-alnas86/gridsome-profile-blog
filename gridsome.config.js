@@ -7,7 +7,13 @@
 module.exports = {
   siteName: 'Situs Dedi Alnas Gridsome Blog Starter',
   siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
-
+metadata: {
+    author: 'Dedi Alnas',
+    twitter: 'Dedialnas',
+    siteName: 'Dedi Alnas Blog Starter',
+    siteUrl: 'https://gridsome-starter-blog.netlify.com'
+  },
+  
   templates: {
     Post: '/:title',
     Tag: '/tag/:id'
