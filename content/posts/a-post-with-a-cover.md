@@ -1,5 +1,5 @@
 ---
-title: A post with a cover image
+title: Hasil cek kecepatan website ini di GTMetrix
 date: 2019-01-07
 published: true
 tags: ['Markdown', 'Cover Image']
