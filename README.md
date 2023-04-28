@@ -13,7 +13,7 @@
 
 ## Demo URL
 
-https://gridsome-starter-blog.netlify.com
+https://dedialnas-gridsome.netlify.com
 
 ## Install
 
