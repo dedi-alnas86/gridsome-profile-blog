@@ -1,6 +1,6 @@
 ---
 title: Hasil cek kecepatan website ini di GTMetrix
-date: 2019-01-07
+date: 2023-04-28
 published: true
 tags: ['Markdown', 'Cover Image']
 series: false
