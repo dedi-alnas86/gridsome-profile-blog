@@ -1,6 +1,6 @@
 ---
 title: Selamat Datang Di Profil Saya Dedi Alnas
-date: 2019-02-06
+date: 2023-04-27
 published: true
 tags: ['Markdown','Test files']
 canonical_url: false
